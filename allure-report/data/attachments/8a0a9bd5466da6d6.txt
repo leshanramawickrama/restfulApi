@@ -1,0 +1,14 @@
+Request URL: https://api.restful-api.dev/objects/ff808181932badb6019542d5042a26de
+Path: /objects/ff808181932badb6019542d5042a26de
+Headers: { accept: 'application/json', 'Content-Type': 'application/json' }
+Response Status: 200
+{
+  id: 'ff808181932badb6019542d5042a26de',
+  name: 'Apple MacBook Pro 16',
+  data: {
+    year: 2019,
+    price: 1849.99,
+    'CPU model': 'Intel Core i9',
+    'Hard disk size': '1 TB'
+  }
+}

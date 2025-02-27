@@ -1,0 +1,20 @@
+{
+    "createObject": {
+        "name": "Apple MacBook Pro 16",
+        "data": {
+           "year": 2019,
+           "price": 1849.99,
+           "CPU model": "Intel Core i9",
+           "Hard disk size": "1 TB"
+        }
+    },
+    "updateObject": {
+        "name": "Apple MacBook Pro M3",
+        "data": {
+           "year": 2024,
+           "price": 2849.99,
+           "CPU model": "Apple Silicon",
+           "Hard disk size": "1 TB"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+Request URL: https://api.restful-api.dev/objects/ff808181932badb6019542d4fe9526dd
+Request Body: {
+  "name": "Apple MacBook Pro M3",
+  "data": {
+    "year": 2024,
+    "price": 2849.99,
+    "CPU model": "Apple Silicon",
+    "Hard disk size": "1 TB"
+  }
+}
+Headers: { accept: 'application/json', 'Content-Type': 'application/json' }
+Response Status: 200
+{
+  id: 'ff808181932badb6019542d4fe9526dd',
+  name: 'Apple MacBook Pro M3',
+  updatedAt: '2025-02-26T15:17:02.707+00:00',
+  data: {
+    year: 2024,
+    price: 2849.99,
+    'CPU model': 'Apple Silicon',
+    'Hard disk size': '1 TB'
+  }
+}

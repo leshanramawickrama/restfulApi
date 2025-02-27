@@ -1,0 +1,13 @@
+{
+    "laptop": {
+        "name": "Laptops",
+        "item": "Sony vaio i5",
+        "price": "$790"
+    },
+    "mobile": {
+        "name": "Phones",
+        "item": "Samsung galaxy s6",
+        "price": "$360"
+    }
+    
+}

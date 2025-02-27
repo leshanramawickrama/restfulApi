@@ -1,0 +1,7 @@
+Request URL: https://api.restful-api.dev/objects/ff808181932badb6019542d4fe9526dd
+Path: /objects/ff808181932badb6019542d4fe9526dd
+Headers: { accept: 'application/json', 'Content-Type': 'application/json' }
+Response Status: 200
+{
+  message: 'Object with id = ff808181932badb6019542d4fe9526dd has been deleted.'
+}
